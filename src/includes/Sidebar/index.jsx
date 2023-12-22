@@ -72,7 +72,6 @@ const Index = () => {
               </h2>
               <AccordionPanel pb={4}>ITEM1</AccordionPanel>
             </AccordionItem>
-
             <AccordionItem border="none">
               <h2>
                 <AccordionButton>
@@ -84,6 +83,8 @@ const Index = () => {
               </h2>
               <AccordionPanel pb={4}>ITEM1</AccordionPanel>
             </AccordionItem>
+
+           
             
           </Accordion>
         </VStack>
