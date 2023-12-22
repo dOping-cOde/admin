@@ -15,7 +15,7 @@ const Login = ({setAuthenticated}) => {
     e.preventDefault();
 
     
-    if (email === 'arun@gmail.com' && password === 'Arun@2001') {
+    if (email === 'arun@gmail.com' && password === 'arun1234') {
       navigate('/home'); 
       toast({
         title: "Loggin successful",
